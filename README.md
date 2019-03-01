@@ -1,8 +1,12 @@
 # Resume
 
-![Me](https://github.com/MOttewell/My-Resume/blob/master/IMG_1564.JPG)
+![My Image](https://github.com/MOttewell/My-Resume/blob/master/IMG_1564.JPG)
 
 ## Mikhail Ottewell
+
+Contact Information:
+  - [Email](m.ottewell112@gmail.com]
+  
 
 
 ### Markdown
