@@ -1,6 +1,6 @@
 # Resume
 
-![My Image](https://github.com/MOttewell/My-Resume/blob/master/IMG_1564.JPG)
+![My Image](https://github.com/MOttewell/Resume/blob/master/IMG_1564.JPG)
 
 ### Mikhail Ottewell
 
