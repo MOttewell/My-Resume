@@ -6,7 +6,7 @@
 I am an amicable and ambitious sophomore at MiraCosta College. Pursuing a degree in Computer Science Engineering, I am keenly fascinated by programming and computer technology, with a dash of mathematical theory on the side. Having developed interests in learning and peer-to-peer assistance, I would care for extending my studies to help improve the human life condition, developing programs or hardware that can service the individual or the entire globe.
 
 ## Contact Information:
-  - [Email](m.ottewell112@gmail.com)
+  - [Email](mailto:m.ottewell112@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/mikhail-ottewell-928778160)
   
 ## Education:
