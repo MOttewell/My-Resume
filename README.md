@@ -1,6 +1,6 @@
 # Resume
 
-![My Image](doc/IMG_1564.JPEG)
+![My Image](IMG_1564.JPG)
 
 ### Mikhail Ottewell
 
