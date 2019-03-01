@@ -2,7 +2,8 @@
 
 ![My Image](IMG_1564.JPG)
 
-### Mikhail Ottewell
+### Mikhail Ottewell:
+I am an amicable and ambitious sophomore at MiraCosta College. Pursuing a degree in Computer Science Engineering, I am keenly fascinated by programming and computer technology, with a dash of mathematical theory on the side. Having developed interests in learning and peer-to-peer assistance, I would care for extending my studies to help improve the human life condition, developing programs or hardware that can service the individual or the entire globe.
 
 ## Contact Information:
   - [Email](m.ottewell112@gmail.com)
@@ -29,6 +30,9 @@
 ## Work Experience:
   - **MiraCosta College Stem Center - Front Desk Assistant (2017-Current)**
   - Front Desk Assistants are expected to be friendly and welcoming students who are able to assist with front desk          responsibilities, serve as the point of contact for checking out materials, and help make the STEM and Math Learning Centers an inviting place for students to study and receive tutoring
+  - **Oceanside High School - Student 2 Student Program Mentor (2014-2015)**
+  - Student 2 Student® (S2S™) is a high school level student program that brings military and civilian students together to welcome new students, create a positive environment, support academic excellence, and ease transitions. As a part of the program, provided tutoring and mentoring services to facilitate a military child's integration into the school socially, academically and culturally
+  - **MiraCosta College STREAM Festival - Event Volunteer (April 2018)
   
 ## Honors and Awards:
   - **Girard Prep Scholar (May 2017)**
