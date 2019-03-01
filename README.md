@@ -1,6 +1,6 @@
 # Resume
 
-[Mikhail Ottewell](https://github.com/MOttewell/My-Resume/blob/master/IMG_1564.JPG)
+![Mikhail Ottewell](https://github.com/MOttewell/My-Resume/blob/master/IMG_1564.JPG)
 
 You can use the [editor on GitHub](https://github.com/MOttewell/My-Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
